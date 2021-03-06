@@ -14,8 +14,8 @@ Long long ago, there is a story about BashScript ...
 
 This project is intended to:  
 
-1.1 Establish a basic functional sub system with the given template (software)
-1.2 Build Development Team by this project
+1.1 Establish a basic functional sub system with the given template (software) 
+1.2 Build Development Team by this project 
 1.3 Allocating Global Resource (if possible) 
 
 ## Project Start Guide
