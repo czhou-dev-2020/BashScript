@@ -124,7 +124,12 @@ print_bash_version () {
   echo "Bash version: ${BASH_VERSION}"
 }
 
-echo "hello world!"
+main() {
+  echo "hello world!"
 
-print_hello $USER
-print_bash_version 
+  print_hello $USER
+  print_bash_version
+   
+}
+
+main "$@"
