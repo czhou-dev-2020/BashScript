@@ -79,7 +79,10 @@ print_usage () {
 #    exit 1;
 #fi
 
-#parse_opts () {
+parse_opts () {
+
+local OPTIND optname
+
 optstring=":i:vh"
 while getopts ${optstring} optname;
   do
@@ -109,7 +112,20 @@ while getopts ${optstring} optname;
         ;;
     esac
   done
-#}
+}
+
+parse_opt () {
+
+  echo "parse_opt()"
+  echo "$@"
+
+#  optstring=":i:vh"
+#  getopts ${optstring} optname;
+#  echo $optname
+
+#  echo $OPTIONS
+#  echo $OPTARG
+}
 
 # ------------------
 # main routine  
@@ -126,10 +142,13 @@ print_bash_version () {
 
 main() {
   echo "hello world!"
-
   print_hello $USER
+
   print_bash_version
-   
+
+  parse_opts "$@"
+#  parse_opt "$@"
+
 }
 
 main "$@"
