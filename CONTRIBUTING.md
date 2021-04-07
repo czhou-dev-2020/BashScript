@@ -1,0 +1,28 @@
+# How to Contribute (version 0.1)
+
+  - [1. Steps for creating good issues or pull requests.](#1-steps-for-creating-good-issues-or-pull-requests)
+  - [2. Links to external documentation, mailing lists, or a code of conduct.](#2-links-to-external-documentation-mailing-lists-or-a-code-of-conduct)
+  - [3. Community and behavioral expectations.](#3-community-and-behavioral-expectations)
+
+## 1. Steps for creating good issues or pull requests.
+
+- START.md
+- REQUIREMENTS.md
+  - Using [ Issues ] function of github
+  - Using [ Pull Requests(PR) ] function of github
+- PROJECT.md
+- RELEASE.md
+
+## 2. Links to external documentation, mailing lists, or a code of conduct.
+
+- REFERENCES.md
+- CODEOFCONDUCTS.md
+- CONTRIBUTING.md
+
+## 3. Community and behavioral expectations.
+
+- README.md
+- LICENSE.txt
+
+### Refer to:
+https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors
