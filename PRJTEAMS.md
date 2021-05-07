@@ -6,7 +6,7 @@ Project Team Members
 - wang wei: java developer, meet at pycon 201x, live with girl firend(s)
 - ycy: shlug.org group administrator, hardware engineer
 - huiyin: shlug.org member c/c++ & go software engineer, stock player
-- celeron533: shlug.org member, meet at shlug.org 20 anniversary, .net software engineer geek at integration.
+- celeron533: shlug.org member, meet at shlug.org 20 anniversary, .net software engineer, good at integration.
 - crane zhou: PMP, software engineer, devsecops & linux player, live with family
 
 - hongbo wang: intel acrn project tpm, live in shanghai minhang district (puxi)
