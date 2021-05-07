@@ -9,7 +9,7 @@ Project Team Members
 - celeron533: shlug.org member, meet at shlug.org 20 anniversary, .net software engineer geek at integration.
 - crane zhou: PMP, software engineer, devsecops & linux player, live with family
 
-- hongbo wang: intel acrn project tpm, live in - minhang district (puxi)
+- hongbo wang: intel acrn project tpm, live in shanghai minhang district (puxi)
 - nagle zhang: shlug.org member, sap devops & software engineer, live with family
 - lin yu: ibm devops & software engineer, meet at dining room of devops meeting (hotel)
 
