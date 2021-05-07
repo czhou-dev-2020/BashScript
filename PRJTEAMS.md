@@ -16,6 +16,6 @@ Project Team Members
 - nagle zhang: shlug.org member, sap devops & software engineer, live with family
 - lin yu: ibm devops & software engineer, meet at dining room of devops meeting (hotel)
 
+---------------------------------------------
 (3rd round team rebuild online by wechat app) 
-
 by crane zhou on 2021.05.08
