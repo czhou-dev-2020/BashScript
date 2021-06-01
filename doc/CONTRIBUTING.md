@@ -6,23 +6,23 @@
 
 ## 1. Steps for creating good issues or pull requests.
 
-- START.md
-- REQUIREMENTS.md
+- doc/QUICKSTART.md
+- doc/REQUIREMENTS.md
   - Using [ Issues ] function of github
   - Using [ Pull Requests(PR) ] function of github
-- PROJECT.md
-- RELEASE.md
+- doc/PROJECT.md
+- doc/RELEASE.md
 
 ## 2. Links to external documentation, mailing lists, or a code of conduct.
 
-- REFERENCES.md
-- CODEOFCONDUCTS.md
-- CONTRIBUTING.md
+- doc/REFERENCES.md
+- doc/CODEOFCONDUCTS.md
+- doc/CONTRIBUTING.md
 
 ## 3. Community and behavioral expectations.
 
 - README.md
-- LICENSE.txt
+- LICENSE
 
 ### Refer to:
 https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors

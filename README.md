@@ -20,8 +20,8 @@ This project is intended to:
 
 ## Project Start Guide
 
-2.1 See [START](START.md) for this Project Start Guide  
-2.2 See [REQUIREMENTS](REQUIREMENTS.md) for this Project ToDo List  
+2.1 See [QUICKSTART](doc/QUICKSTART.md) for this Project Start Guide  
+2.2 See [REQUIREMENTS](doc/REQUIREMENTS.md) for this Project ToDo List  
 2.3 Project Design NOT included in Start Guide  
 
 
@@ -45,7 +45,7 @@ This project is intended to:
 
 ## Resource Allocating
 
-5.1 See [REFERENCES](REFERENCES.md) file for previous Project Reference  
+5.1 See [REFERENCES](doc/REFERENCES.md) file for previous Project Reference  
 5.2 Welcome to join to develop this project together 
 
 ## License & CopyRight
