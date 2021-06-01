@@ -8,7 +8,7 @@ Project Start Guide
 ![BSD](https://img.shields.io/badge/License-BSD3-blue.svg)
 
 
-## Start Guide Introduction
+## Quick Start Guide Introduction
 
 Project Name: RillHost-BashScript-Template Project  
   
