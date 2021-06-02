@@ -28,5 +28,5 @@ Project References (URLS List)
 
 ## License & CopyRight
 This Project is released under the terms of the BSD license.  
-See [LICENSE](LICENSE) for more information or see:  
+See [LICENSE](LICENSE.txt) for more information or see:  
 https://opensource.org/licenses/BSD-3-Clause.

@@ -22,7 +22,7 @@
 ## 3. Community and behavioral expectations.
 
 - README.md
-- LICENSE
+- LICENSE.txt
 
 ### Refer to:
 https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors
