@@ -20,7 +20,7 @@ This project is intended to:
 
 ## Project Start Guide
 
-2.1 See [QUICKSTART](doc/QUICKSTART.md) for this Project Start Guide  
+2.1 See [QUICKSTART](doc/QUICKSTART.md) for this Project Quick Start Guide  
 2.2 See [REQUIREMENTS](doc/REQUIREMENTS.md) for this Project ToDo List  
 2.3 Project Design NOT included in Start Guide  
 
