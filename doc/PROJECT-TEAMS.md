@@ -6,7 +6,8 @@ Project Team Members
 - To be updated ...
 
 ## Stake Holders:
-- celeron533: shlug.org member, meet at shlug.org 20 anniversary, .net software engineer, good at integration.
+- celeron533: shlug.org member, meet at shlug.org 20 anniversary, .net software engineer, 
+   good at integration. (https://github.com/celeron533)
 
 - hongbo wang: intel acrn project tpm, live in shanghai minhang district (puxi) 
    (hongbo.wang@intel.com)
@@ -18,8 +19,11 @@ Project Team Members
 - bysocket li: software engineer, java developer, live with family 
    (bysocket@aliyun.com, https://github.com/BYSocket)
 
+- arron liao: project manager of SAP hybris project teams (Business Unit)
+- tony jiang: support leader of SAP hybris project teams (Business Unit)
+
 ---------------------------------------------
 (3rd round team rebuild online by wechat app) 
 
-by crane zhou on 2021.05.08, 2021.05.31
-by crane zhou on 2021.07.20
+by crane zhou on 2021.05.08, 2021.05.31  
+by crane zhou on 2021.07.20, 2021.08.17
