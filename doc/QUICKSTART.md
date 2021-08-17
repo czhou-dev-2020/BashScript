@@ -46,13 +46,13 @@ Not yet
 
 ``` 
 [czhou@localhost BashScript]$ cd ~/Projects/TemplateProjects/BashScript
-[czhou@localhost BashScript]$ ./RillHost-BashScript-Template-v1.sh
+[czhou@localhost BashScript]$ ./RillHost-BashScript-Template.sh
 ```
 
 3.4 project start demo
 
 ``` 
-[czhou@localhost BashScript]$ ./RillHost-BashScript-Template-v1.sh 
+[czhou@localhost BashScript]$ ./RillHost-BashScript-Template.sh 
 hello world!
 Hello cranez
 Bash version: 5.0.17(1)-release

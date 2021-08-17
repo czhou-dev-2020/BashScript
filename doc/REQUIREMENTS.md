@@ -16,8 +16,10 @@ Project Requirements (ToDo List)
 - Check the user permission level
 
 ### Known Issues
-- para was not recognized: 
-  for example: []./RillHost-BashScript-Template-v1.sh para
+- script parameters were not recognized: 
+  for example: []./RillHost-BashScript-Template.sh parameter1
+  response: this issue (function) has been developed
+- -x, --ignorelock: will check or ignore the lock handle when use this option(-x)
 
 ### KeyWords Mapping
 - Requirements ~ ToDo List
