@@ -1,4 +1,4 @@
-# How to Contribute (version 0.1)
+# How to Contribute (version 0.1/1.0)
 
   - [1. Steps for creating good issues or pull requests.](#1-steps-for-creating-good-issues-or-pull-requests)
   - [2. Links to external documentation, mailing lists, or a code of conduct.](#2-links-to-external-documentation-mailing-lists-or-a-code-of-conduct)

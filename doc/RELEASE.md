@@ -6,7 +6,7 @@ Project Release Plan
 ![BSD](https://img.shields.io/badge/License-BSD3-blue.svg)
 
 
-## Project v1(version 1.0) (2021/03)
+## Project BashScript (version 1.0) (2021/03)
 
 ### Project Release Notes
 - Not yet
