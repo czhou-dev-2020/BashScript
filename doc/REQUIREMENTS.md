@@ -1,12 +1,12 @@
 
 Project Requirements (ToDo List)
-(version 0.1/1.0)
+(version 0.2/1.0)
 --------------------------------
 
 ![BSD](https://img.shields.io/badge/License-BSD3-blue.svg)
 
 
-## Project BashScript (version 1.0) (2021/03)
+## Project BashScript (version 0.2/1.0) (2021/08)
 
 ### New Features
 - Added a welcome banner

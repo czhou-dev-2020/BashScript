@@ -1,6 +1,6 @@
 
 Project Start Guide
-(version 0.1)
+(version 0.2)
 -------------------
 
 ![Bash](https://img.shields.io/badge/Bash-3.2+-green.svg)
@@ -33,9 +33,9 @@ Project Tested as:
 3.1 get source code from github (installation 1)
 
 ``` 
-mkdir ~/Projects/TemplateProjects/BashScript
-cd ~/Project/TemplateProjects/BashScript
-git clone https://github.com/czhou-dev-2020/TemplateProjects/BashScript/RillHost-BashScript-Template-Project.git 
+mkdir ~/Projects/Github.com/
+cd ~/Project/Github.com/
+git clone https://github.com/czhou-dev-2020/BashScript.git 
 ```
 
 3.2 setup local database (installation 2)
@@ -45,7 +45,7 @@ Not yet
 3.3 running project on localhost
 
 ``` 
-[czhou@localhost BashScript]$ cd ~/Projects/TemplateProjects/BashScript
+[czhou@localhost ~]$ cd ~/Projects/Github.com/BashScript/src/Template
 [czhou@localhost BashScript]$ ./RillHost-BashScript-Template.sh
 ```
 

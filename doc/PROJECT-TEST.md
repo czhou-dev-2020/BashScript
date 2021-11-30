@@ -1,30 +1,33 @@
 
 Project Management Plan
-(version 0.2/1.0)
+(version 0.1/1.0)
 -----------------------
+
+![Bash](https://img.shields.io/badge/Bash-3.2+-green.svg)
 
 ![BSD](https://img.shields.io/badge/License-BSD3-blue.svg)
 
 
-## Project BashScript (version 0.2/1.0) (2021/08)
+## Project Template Projects (version 0.1/1.0) (2021/11)
 
-### Project Owners
+### Project Unit Test
 - Not yet
 
-### Project Sponsors
+### Project Module Test
 - Not yet
 
-### Project Manager
+### Project System Integration Test (alpha)
 - Not yet
 
-### Project Developer
+### Project Continuous Integration Test (beta)
 - Not yet
 
-### KeyWords Mapping
+### Project Release Candidate Test (gamma:rc)
 - Not yet
 
-### Change Log
+### Project Stable Test (LTS)
 - Not yet
+
 
 ## License & CopyRight
 This Project is released under the terms of the BSD license.  
